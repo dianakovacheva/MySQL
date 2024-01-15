@@ -1,2 +1,2 @@
 # MySQL
-MySQL Course Tasks
+MySQL Course Problems Solutions
